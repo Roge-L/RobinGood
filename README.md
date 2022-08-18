@@ -2,7 +2,7 @@
 
 Click the thumbnail below to be redirected to our demo!
 
-[![Video Demo](https://youtu.be/LeIRfnsESOQ/0.jpg)](https://youtu.be/et0FfEqWj08)
+[![Video Demo](https://youtu.be/LeIRfnsESOQ/0.jpg)](https://youtu.be/LeIRfnsESOQ)
 
 ## Prerequisities
 
