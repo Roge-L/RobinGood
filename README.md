@@ -1,28 +1,8 @@
 # RobinGood
 
-Click the thumbnail below to be redirected to our demo!
+Invest your money on a democratic and community-based investment platform.
 
 [![Video Demo](https://youtu.be/LeIRfnsESOQ/0.jpg)](https://youtu.be/LeIRfnsESOQ)
-
-## Prerequisities
-
-### Necessary Installations to Get Started
-
-We used Visual Studio Code and the Expo App on our phones to write the code and then view our application respectively. We were able to connect the two after running "npm install expo" in the terminal. This would gave us a QR code that we could use to view the app through the Expo application on our phones.
-
-### NPM Installations
-- npm install expo
-- npm install @react-navigation/native
-- expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
-- npm install react-navigation-drawer
-- npm install @react-navigation/stack
-
-- npm install @react-native-firebase/app
-- npm @react-native-firebase/messaging
-- npm install react-native-linear-gradient
-
-- npm install formik
-
 
 ## Inspiration
 Over the past month we’ve seen how well collective retail investing can bring people together.  Many people made great profits from Gamestop and other commonly shorted stocks, and ended up donating all of it to their local food shelters, homeless shelters, and charities. Our goal is that we wanted to make investing more community based, accessible, and beneficial to society. 
@@ -59,3 +39,23 @@ Donations Feature = allow lending money to those with less buying power and allo
 - python
 - react
 - services
+
+## Prerequisities
+
+### Necessary Installations to Get Started
+
+We used Visual Studio Code and the Expo App on our phones to write the code and then view our application respectively. We were able to connect the two after running "npm install expo" in the terminal. This would gave us a QR code that we could use to view the app through the Expo application on our phones.
+
+### NPM Installations
+- npm install expo
+- npm install @react-navigation/native
+- expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+- npm install react-navigation-drawer
+- npm install @react-navigation/stack
+
+- npm install @react-native-firebase/app
+- npm @react-native-firebase/messaging
+- npm install react-native-linear-gradient
+
+- npm install formik
+
